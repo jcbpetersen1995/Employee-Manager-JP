@@ -4,4 +4,14 @@
 <p>This application is designed to help businesses keep track of their employees, departments, and roles.</p>
 
 <h2>How to Use</h2>
-<p>
+<p>Run the command 'node server.js' from the command line.</p>
+  <p>Note: NPM packages inquirer, colors, and console.table must be installed.</p>
+  
+<h2>Features</h2>
+<ul>
+  <li>Ability to view all employees, roles, and departments individually.</li>
+  <li>Colorful texts.</li>
+  <li>Ability to modify certain components to suit business needs.</li>
+ </ul>
+ <hr>
+ 
